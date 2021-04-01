@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428328231955",
+    "firebase_url": "https://weather-s.firebaseio.com",
+    "project_id": "weather-s",
+    "storage_bucket": "weather-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428328231955:android:d86b375ec24a6cfd818be6",
+        "android_client_info": {
+          "package_name": "com.salardev.weathe_s"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428328231955-8h0o3k3aa1ok1uiul12gkcveguptk0l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYz3EyOWpq3YvgjVj_jIZUS14s4FflJNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428328231955-8h0o3k3aa1ok1uiul12gkcveguptk0l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
